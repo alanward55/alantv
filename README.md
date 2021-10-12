@@ -1,6 +1,8 @@
-###Mengintip CCTV
+## Mengintip CCTV
 Berbasis Python2 
-##Instalasi
+## Instalasi
 apt install python2</br>
 apt install git</br>
-git clone https://github.com/alanward55/alantv
+git clone https://github.com/alanward55/alantv</br>
+cd alantv</br>
+pyhton2 cctv.py</br>
